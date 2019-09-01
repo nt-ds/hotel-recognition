@@ -4,6 +4,7 @@
 # In[1]:
 
 
+import numpy as np
 import os
 import matplotlib.pyplot as plt
 
@@ -27,7 +28,7 @@ def load_images(image_folder_in_int, is_training=True, image_type="unoccluded"):
                     medium_occlusions means images have medium occlusions
                     high_occlusions means images have high occlusions
     Return
-        a list of image arrays
+        a numpy array of image arrays
     '''
     
     if is_training:
@@ -43,7 +44,7 @@ def load_images(image_folder_in_int, is_training=True, image_type="unoccluded"):
                 # plt.imread reads an image from a file into an array
                 image_files.append(plt.imread(os.path.join(r, file)))
                 
-    return image_files
+    return np.array(image_files)
 
 
 # Source: [Python – How to list all files in a directory?](https://www.mkyong.com/python/python-how-to-list-all-files-in-a-directory/)
