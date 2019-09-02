@@ -104,19 +104,19 @@ venv.bak/
 .mypy_cache/
 
 # metadata
-/data/metadata/*.csv
+/data/raw/metadata/*.csv
 
 # training
-/data/training/0
-/data/training/3
-/data/training/36
-/data/training/88
+/data/raw/training/0
+/data/raw/training/3
+/data/raw/training/36
+/data/raw/training/88
 
 # test
-/data/test/high_occlusions
-/data/test/low_occlusions
-/data/test/medium_occlusions
-/data/test/unoccluded
+/data/raw/test/high_occlusions
+/data/raw/test/low_occlusions
+/data/raw/test/medium_occlusions
+/data/raw/test/unoccluded
 
 # src
 /src/input_data/*.ipynb
