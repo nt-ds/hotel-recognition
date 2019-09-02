@@ -118,5 +118,13 @@ venv.bak/
 /data/raw/test/medium_occlusions
 /data/raw/test/unoccluded
 
+# processed
+/data/processed/training_images_batch_1.pickle
+/data/processed/training_images_batch_2.pickle
+/data/processed/training_images_batch_3.pickle
+/data/processed/training_images_batch_4.pickle
+/data/processed/training_images_batch_5.pickle
+/data/processed/training_images_batch_6.pickle
+
 # src
 /src/input_data/*.ipynb
