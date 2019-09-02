@@ -33,9 +33,9 @@ def get_array_of_images(image_folder_in_int, is_training=True, image_type="unocc
     '''
     
     if is_training:
-        path = f"/content/drive/My Drive/hotel-recognition/data/training/{image_folder_in_int}"
+        path = f"/content/drive/My Drive/hotel-recognition/data/raw/training/{image_folder_in_int}"
     else:
-        path = f"/content/drive/My Drive/hotel-recognition/data/test/{image_type}/{image_folder_in_int}"
+        path = f"/content/drive/My Drive/hotel-recognition/data/raw/test/{image_type}/{image_folder_in_int}"
     
     image_files = []
     
