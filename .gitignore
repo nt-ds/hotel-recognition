@@ -117,3 +117,6 @@ venv.bak/
 /data/test/low_occlusions
 /data/test/medium_occlusions
 /data/test/unoccluded
+
+# src
+/src/input_data/*.ipynb
