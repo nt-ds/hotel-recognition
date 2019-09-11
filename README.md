@@ -1,1 +1,1 @@
-# hotel-recognition
+# hotels-against-trafficking
