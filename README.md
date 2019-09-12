@@ -7,7 +7,7 @@
 
 
 ### Motivation
-<img src="readme_images/motivation.jpg" alt="motivation" width="250" class="center"/><br><br>
+<img src="readme_images/motivation.jpg" alt="motivation" width="300" class="center"/><br><br>
 In the United States alone:
 - Approximately 75-80% of human trafficking and slavery is for sex
 - 30,000 people die each year while being trafficked for sex from neglect, abuse, disease, or torture
@@ -20,13 +20,13 @@ Source: [The Disturbing Reality of Human Trafficking and Children](https://www.h
 
 ### Objectives
 **Problem**<br><br>
-<img src="readme_images/problem.jpg" alt="problem" width="250" class="center"/><br><br>
-Commercial sex within hotels and motels are most frequently advertised through online platforms (Backpage.com, Eros.com, etc.)<br>
+<img src="readme_images/problem.jpg" alt="problem" width="300" class="center"/><br><br>
+- Commercial sex within hotels and motels are most frequently advertised through online platforms (Backpage.com, Eros.com, etc.)<br>
 
 Source: [The National Human Trafficking Hotline](https://humantraffickinghotline.org/sex-trafficking-venuesindustries/hotelmotel-based)<br>
 
 **Goal**<br>
-Automatically classifying different hotel chains using Deep Learning
+- Automatically classifying different hotel chains using Deep Learning
 
 --------------------------------------------------
 
@@ -47,7 +47,7 @@ Test images are augmented with person-shaped masks of varying size splitted into
 
 An example of the 4 categories:
 
-<img src="readme_images/testsets.png" alt="test sets" width="500" class="center"/><br>
+<img src="readme_images/testsets.png" alt="test sets" width="700" class="center"/><br>
 
 --------------------------------------------------
 
@@ -63,13 +63,13 @@ An example of the 4 categories:
 
 - F1-score
 
-<img src="readme_images/f1.png" alt="f1-score" width="200" class="center"/><br>
+<img src="readme_images/f1.png" alt="f1-score" width="300" class="center"/><br>
 
 --------------------------------------------------
 
 ### Results
 
-<img src="readme_images/results.png" alt="results" width="200" class="center"/><br>
+<img src="readme_images/results.png" alt="results" width="600" class="center"/><br>
 
 Since we have a perfectly balanced dataset with 3 classes, an F1-score of larger than 33% is better than random.
 
