@@ -71,7 +71,7 @@ An example of the 4 categories:
 
 <img src="readme_images/results.png" alt="results" width="600" class="center"/><br>
 
-Since we have a perfectly balanced dataset with 3 classes, an F1-score of larger than 33% is better than random.
+Since we have a balanced dataset with 3 classes, an F1-score of larger than 33% is better than random.
 
 Besides Comfort Inn's Medium Occlusions case which is as good (bad) as random chance and High Occlusions case which is worse than random chance, everything else is better than random.
 
