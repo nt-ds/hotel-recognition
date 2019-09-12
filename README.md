@@ -7,7 +7,7 @@
 
 
 ### Motivation
-<img src="file://motivation.jpg" alt="motivation" width="200"/>
+<img src="readme_images/motivation.jpg" alt="motivation" width="200"/>
 In the United States alone:
 - Approximately 75-80% of human trafficking and slavery is for sex
 - 30,000 people die each year while being trafficked for sex from neglect, abuse, disease, or torture
@@ -20,7 +20,7 @@ Source: [The Disturbing Reality of Human Trafficking and Children](https://www.h
 
 ### Objectives
 **Problem**<br>
-<img src="file://problem.jpg" alt="problem" width="200"/>
+<img src="readme_images/problem.jpg" alt="problem" width="200"/><br>
 Commercial sex within hotels and motels are most frequently advertised through online platforms (Backpage.com, Eros.com, etc.)<br>
 Source: [The National Human Trafficking Hotline](https://humantraffickinghotline.org/sex-trafficking-venuesindustries/hotelmotel-based)<br>
 
