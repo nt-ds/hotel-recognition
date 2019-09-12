@@ -131,7 +131,3 @@ venv.bak/
 
 # model
 /model/*.hdf5
-
-# pictures
-*.jpeg
-*.jpg
