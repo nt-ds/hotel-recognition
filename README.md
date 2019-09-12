@@ -7,7 +7,7 @@
 
 
 ### Motivation
-![motivation](\pictures\motivation.jpeg)
+![motivation](~/Desktop/DS_Fellowship/Projects/Capstone Project/hotels-against-trafficking/pictures/motivation.jpeg)
 In the United States alone:
 - Approximately 75-80% of human trafficking and slavery is for sex
 - 30,000 people die each year while being trafficked for sex from neglect, abuse, disease, or torture
