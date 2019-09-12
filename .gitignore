@@ -128,3 +128,6 @@ venv.bak/
 # src
 /src/*.ipynb
 /src/set_images.py
+
+# model
+/model/*.hdf5
