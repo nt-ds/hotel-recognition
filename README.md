@@ -7,7 +7,7 @@
 
 
 ### Motivation
-![motivation](file://motivation.jpeg)<br>
+<img src="file://motivation.jpeg" alt="motivation" width="200"/>
 In the United States alone:
 - Approximately 75-80% of human trafficking and slavery is for sex
 - 30,000 people die each year while being trafficked for sex from neglect, abuse, disease, or torture
